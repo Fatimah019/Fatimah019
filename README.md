@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there 👋, I am Fatimah Davies,
 
-<!--
-**Fatimah019/Fatimah019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Engineer with a strong focus on scalable architecture, performance, and maintainable UI systems. 
+I specialize in building production-ready React applications that balance business requirements with long-term technical health.
 
-Here are some ideas to get you started:
+### Technical Focus
+- React, TypeScript, Next.js
+- Application architecture & state management
+- Design systems & reusable component libraries
+- Data fetching, caching, and error handling
+- Frontend performance and accessibility
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  🔭 Current Work
+- Designing and implementing a production-grade admin dashboard
+- Establishing frontend patterns and best practices
+- Improving DX, code consistency, and reliability
+
+📫 Contact: [[LinkedIn](https://www.linkedin.com/in/fatimahdavies/) or [Email](daviesfatimah97@gmail.com)]
+
+
