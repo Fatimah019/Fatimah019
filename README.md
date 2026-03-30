@@ -15,6 +15,6 @@ I specialize in building production-ready React applications that balance busine
 - Establishing frontend patterns and best practices
 - Improving DX, code consistency, and reliability
 
-📫 Contact: [[LinkedIn](https://www.linkedin.com/in/fatimahdavies/) or [Email](daviesfatimah97@gmail.com)]
+📫 Contact: [[LinkedIn](https://www.linkedin.com/in/fatimahdavies/) or [Email](mailto: daviesfatimah97@gmail.com)]
 
 
